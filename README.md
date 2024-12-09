@@ -1,4 +1,4 @@
-Please Refer Readme file given inside project directory ot the pdf uploaded 
+Please Refer Readme file given inside project directory ot the pdf uploaded named as L7 informatics- 21z324-Mydhili Nayaki R
 IceCream Delight Manager
 Overview
 IceCream Delight Manager is a project designed for an ice cream shop. It includes:
