@@ -8,16 +8,17 @@ The backend is implemented using Flask, SQLAlchemy for ORM, and SQLite as the da
 The frontend is built using Streamlit, which interacts with the API to display and manage flavors
 and allergens.
 2.Technologies Used
-● Backend: Flask, SQLAlchemy, SQLite
-● Frontend: Streamlit, Requests
-● Database: SQLite
-● Containerization: Docker
-● Testing: Postman
+1. Backend: Flask, SQLAlchemy, SQLite
+2. Frontend: Streamlit, Requests
+3. Database: SQLite
+4. Containerization: Docker
+5. Testing: Postman 
 3.Features
-● Search Flavors: Allows users to search for ice cream flavors.
-● Add Flavor: Adds new flavors to the database.
-● Add Allergen: Adds allergens to specific flavors.
-● Shopping Cart: Manages a shopping cart for users to add and view flavors
+1. Search Flavors: Allows users to search for ice cream flavors.
+2. Add Flavor: Adds new flavors to the database.
+3. Add Allergen: Adds allergens to specific flavors.
+4. Shopping Cart: Manages a shopping cart for users to add and view flavors
+   
 4.Project Structure
 Copy code
 ├── app.py Flask API for handling flavor and allergen logic
